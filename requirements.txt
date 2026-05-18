@@ -1,0 +1,9 @@
+slack_bolt==1.18.1
+urllib3==2.2.1
+python-dotenv==1.0.1
+requests==2.31.0
+discord.py==2.3.2
+vectara-agentic==0.1.10
+redis==5.1.0
+twilio==9.3.2
+flask==3.0.3
